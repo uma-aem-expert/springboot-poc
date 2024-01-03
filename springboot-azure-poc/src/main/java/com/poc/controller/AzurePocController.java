@@ -11,7 +11,7 @@ public class AzurePocController {
 	@GetMapping("/message")
 	public String getMessage () {
 		
-		return "Hello from your controller!!";
+		return "Hello from AzurePocController controller!!";
 	}
 
 }
